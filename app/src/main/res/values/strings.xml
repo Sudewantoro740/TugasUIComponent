@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TugasUIComponent</string>
+    <string name="bidang_minat">Bidang Minat :</string>
+    <string name="coding">Coding</string>
+    <string name="mpsi">MPSI</string>
+    <string name="auditrb">Audit</string>
+    <string name="bidang_yang_dikuasai">Bidang yang Dikuasai</string>
+    <string name="data_bidang_minat_mahasiswa_si">data bidang minat mahasiswa si</string>
+    <string name="nama">Nama</string>
+    <string name="manajemen">Manajemen</string>
+    <string name="solusi">Solusi</string>
+    <string name="auditcb">Audit</string>
+    <string name="npm">NPM</string>
+    <string name="tododc">TODO</string>
+    <string name="todoacc">TODO</string>
+</resources>
